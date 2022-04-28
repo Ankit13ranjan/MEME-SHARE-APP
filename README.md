@@ -5,7 +5,7 @@ using Json Object And
 using API Call 
 
 Having Next Button For Seeing Next Meme
-       * Load Different Meme each time
+       & Load Different Meme each time
 
 Having Feature of Sharing Meme through Different Modes
 
